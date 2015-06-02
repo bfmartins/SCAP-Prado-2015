@@ -1,2 +1,2 @@
-# SCAP-Prado-2015
-SCAP System by Prado at 2015 using FrameWeb with VRaptor, JPA and no decorator.
+# tcc-rodolfo-prado
+SCAP (Sistema de Controle de Afastamento de Professores), desenvolvido no Trabalho de Conclusão de Curso do aluno Rodolfo Prado sob orientação do prof. Vítor E. Silva Souza
